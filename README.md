@@ -4,4 +4,4 @@ This is my second Project, it was created with Flex-box, I olso used "hover" at 
 and in this project olso was "opacity" for me a new experience.
 
 
-Live Link : https://valeri-css.github.io/NFT-Card/
+Live Link : https://valeri-css.github.io/NFT-Card-2/
